@@ -1,2 +1,2 @@
 # Listeil_page
-A task list function page called Listeil
+A task list function page for an application called Listeil
